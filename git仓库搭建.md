@@ -43,7 +43,7 @@
    git checkout <branch_name>    # 切换到新创建的分支
    git reset HEAD~1              # 回退到上一个提交版本
    ```
-
+![git log示例](./img/git_log.png)
 ## 二、上传git仓库至github的步骤
 1. 注册github账号  
    略
