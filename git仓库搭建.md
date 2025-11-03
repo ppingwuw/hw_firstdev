@@ -208,3 +208,6 @@ A <- B <- C <- D (HEAD)
 - `--soft`: 只改历史，不碰文件。
 - `--mixed` (默认): 改历史，清暂存区，留文件。
 - `--hard`: 全部重置，文件也没了。
+## 参考文献
+- Git 使用教程：最详细、最正宗手把手教学（万字长文）（[csdn](https://blog.csdn.net/qq_16027093/article/details/130503317)
+- 【清晰教程】利用Git工具将本地项目push上传至GitHub仓库中（[csdn](https://blog.csdn.net/weixin_73404807/article/details/148345290)
